@@ -1,0 +1,14 @@
+SENSOR BASED TECHNIQUE:
+
+-Gesture Detection based on flex sensors.
+-Real-Time Translation.
+
+VIDEO INTERCOM:
+
+-For visual communication.
+-Live Translation during video calls.
+
+METHODOLOGY AND IMPLEMENTATION:
+
+ -Flex sensors and accelerometers on a glove detect hand movements and send data to the Arduino UNO for gesture recognition.
+ -The system outputs corresponding audio and text via speakers and an LCD screen based on predefined gesture patterns.
